@@ -11,8 +11,13 @@
   "dependencies": {
     "@svgr/webpack": "^5.4.0",
     "axios": "^0.21.1",
+    "browserslist": "^4.16.5",
+    "glob-parent": "^5.1.2",
     "next": "^9",
     "next-images": "^1.4.0",
+    "node-fetch": "^2.6.1",
+    "object-path": "^0.11.5",
+    "postcss": "^7.0.36",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "styled-components": "^5.1.1"
