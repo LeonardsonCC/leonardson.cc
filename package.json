@@ -15,7 +15,7 @@
     "glob-parent": "^5.1.2",
     "next": "^9",
     "next-images": "^1.4.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "object-path": "^0.11.5",
     "postcss": "^7.0.36",
     "react": "16.13.1",
